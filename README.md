@@ -18,7 +18,7 @@ I enjoy putting together mods and useful tools, with a primary focus on small sy
 | --- | --- |
 | Sailwind | [Ship Shuffle](https://github.com/Skeptic043/ship-shuffle) · [Easy Sweeper](https://github.com/Skeptic043/Sailwind-Easy-Sweeper) · [Alarm Clock](https://github.com/Skeptic043/sailwind-alarm-clock) · [Custom Paintings](https://github.com/Skeptic043/sailwind-custom-paintings) · [Fast Forward](https://github.com/Skeptic043/Sailwind-Fast-Forward) · [Drop Safety](https://github.com/Skeptic043/Sailwind-Drop-Safety) · [Receipt Alert](https://github.com/Skeptic043/SailwindReceiptAlert) |
 | Obenseuer | [Portable Music Player](https://github.com/Skeptic043/Obenseuer-Portable-Music-Player) · [Interaction Range](https://github.com/Skeptic043/Obenseuer-Interaction-Range) · [Probable Cause](https://github.com/Skeptic043/Obenseuer-Probable-Cause) |
-| Mon Bazou | [Better Radio](https://github.com/Skeptic043/MonBazouBetterRadio) |
+| Mon Bazou | [Better Radio](https://github.com/Skeptic043/MonBazouBetterRadio) · [Working Side Mirrors](https://github.com/Skeptic043/MonBazouWorkingSideMirrors) · [Deft Hands](https://github.com/Skeptic043/MonBazouDeftHands) |
 
 I have also previously contributed catalog updates and fixes to [Sailwind Mod Synchronizer](https://github.com/foxyv/SailwindModSynchronizer).
 
